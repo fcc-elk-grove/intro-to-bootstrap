@@ -1,30 +1,33 @@
 # Intro to Bootstrap
 
 #### Getting Started (v4.1)
-Starter Template: https://getbootstrap.com/docs/4.1/getting-started/introduction/#starter-template
+[Starter template](https://getbootstrap.com/docs/4.1/getting-started/introduction/#starter-template)
 
 #### Common Components
-Navbar: https://getbootstrap.com/docs/4.1/components/navbar/#supported-content
+[Navbar](https://getbootstrap.com/docs/4.1/components/navbar/#supported-content)
 
-Jumbotron: https://getbootstrap.com/docs/4.1/components/jumbotron/
+[Jumbotron](https://getbootstrap.com/docs/4.1/components/jumbotron/)
 
-Buttons: https://getbootstrap.com/docs/4.1/components/buttons/#button-tags
+[Buttons](https://getbootstrap.com/docs/4.1/components/buttons/#button-tags)
 
 #### Grid System
 
-Containers: https://getbootstrap.com/docs/4.1/layout/overview/#containers
+[Containers](https://getbootstrap.com/docs/4.1/layout/overview/#containers)
 
-How it works: https://getbootstrap.com/docs/4.1/layout/grid/#how-it-works
-Note: "In a grid layout, content must be placed within columns and only columns may be immediate children of rows."
+[How it works](https://getbootstrap.com/docs/4.1/layout/grid/#how-it-works)
 
-Equal-width: https://getbootstrap.com/docs/4.1/layout/grid/#equal-width
+***Note:*** *"In a grid layout, content must be placed within columns and only columns may be immediate children of rows."*
 
-Stacked to Horizontal: https://getbootstrap.com/docs/4.1/layout/grid/#stacked-to-horizontal
+[Equal-width](https://getbootstrap.com/docs/4.1/layout/grid/#equal-width)
 
-Mix and Match: https://getbootstrap.com/docs/4.1/layout/grid/#mix-and-match
+[Setting one column width](https://getbootstrap.com/docs/4.1/layout/grid/#setting-one-column-width)
 
-Horizontal Alignment: https://getbootstrap.com/docs/4.1/layout/grid/#horizontal-alignment
+[Stacked to horizontal](https://getbootstrap.com/docs/4.1/layout/grid/#stacked-to-horizontal)
 
-Spacing (Margin and Padding): https://getbootstrap.com/docs/4.1/utilities/spacing/
+[Mix and match](https://getbootstrap.com/docs/4.1/layout/grid/#mix-and-match)
+
+[Horizontal alignment](https://getbootstrap.com/docs/4.1/layout/grid/#horizontal-alignment)
+
+[Spacing (margin and padding)](https://getbootstrap.com/docs/4.1/utilities/spacing/)
 
 There's a lot more that Bootstrap can do besides what's listed here! Take some time to go through the Bootstrap docs and see what else it can do.

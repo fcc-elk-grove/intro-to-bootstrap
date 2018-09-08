@@ -1,0 +1,9 @@
+.row {
+  background-color: pink;
+}
+
+.row div[class^="col"] {
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+}
